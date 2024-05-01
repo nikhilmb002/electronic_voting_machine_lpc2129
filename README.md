@@ -1,4 +1,3 @@
-# electronic_voting_machine using LPC2129 
 
 # electronic voting machine
 
